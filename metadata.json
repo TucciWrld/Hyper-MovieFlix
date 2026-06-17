@@ -1,0 +1,6 @@
+{
+  "name": "Hyper MovieFlix",
+  "description": "A premium movie and TV streaming experience powered by Gemini AI recommendations, locally persisted profiles, offline downloads, feedback forums, and multi-profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
